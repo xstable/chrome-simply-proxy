@@ -1,7 +1,9 @@
 {
+"update_url": "https://clients2.google.com/service/update2/crx",
+
   "manifest_version": 2,
-  "name": "Simply Proxy",
-  "description": "一个朴素的代理配置扩展",
+  "name": "Simple Proxy",
+  "description": "A simple proxy configuration extension",
   "minimum_chrome_version": "22",
   "version": "0.1.8",
   "icons": {
